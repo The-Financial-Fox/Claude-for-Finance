@@ -108,7 +108,7 @@ pip install -r requirements.txt
 
 **Christian Martinez** is a finance professional and creator focused on helping FP&A teams and CFOs use AI tools — especially Claude — to work more effectively.
 
-- 📺 YouTube: [The Financial Fox](https://www.youtube.com/@TheFinancialFox)
+- 📺 YouTube: [AI for Finance and FP&A](https://www.youtube.com/@christianmartinezAIforFinance)
 - 💼 LinkedIn: [Christian Martinez](https://www.linkedin.com/in/christianmartinezthefinancialfox)
 - 📬 Newsletter: [christianmartinezonline.kit.com](https://christianmartinezonline.kit.com)
 
