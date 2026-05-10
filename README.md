@@ -6,7 +6,7 @@
 
 ## 🦊 About This Repository
 
-**Claude for Finance** is a curated collection of free resources maintained by [Christian Martinez (The Financial Fox)](https://www.youtube.com/@TheFinancialFox) to help finance professionals get real, practical value from Claude AI.
+**Claude for Finance** is a curated collection of free resources maintained by [Christian Martinez](https://www.youtube.com/@christianmartinezAIforFinance) to help finance professionals get real, practical value from Claude AI.
 
 Whether you're a CFO building AI-powered dashboards, an FP&A analyst automating commentary, or an accountant cleaning ERP data — this repo has something for you.
 
