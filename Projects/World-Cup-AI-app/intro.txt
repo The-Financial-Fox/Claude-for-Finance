@@ -1,0 +1,57 @@
+I built an AI app that predicts the World Cup winner using GDP data and FIFA rankings.
+
+
+
+I did it using Claude and the right prompts. Why?
+
+
+
+Well, last week a member of AI Finance Club started a fantasy World Cup league. I will be attending later this month and got super excited so wanted to combine a Claude learning guide with this.
+
+
+
+This is how you can create one too:
+
+
+
+Step 1: Ask Claude to gather all the data: match calendar, FIFA rankings, GDP per capita per country, and ELO ratings. It pulls datasets from the World Bank API for example.
+
+
+
+Step 2: Tell Claude exactly what you want to build. One starter prompt is : "Build a World Cup match predictor using Poisson regression with GDP, ELO, and FIFA rankings."
+
+
+
+I used Claude to iterate on the prompt. If you want to test it, let me know in the comments and I can send!
+
+
+
+Step 3: Convert it into a Claude Artifact. Artifacts are like mini interactive apps that runs inside Claude. 
+
+
+
+You can also create AI-powered or live artifacts. I've done full guides on both. Also leaving them in the comments!
+
+
+
+Step 4: Test it. Check if the predictions make sense. Ask Claude to adjust the weights, add a knockout bracket, or improve the model. Each iteration takes seconds.
+
+
+
+Step 5: Publish it. You can share a public link directly from Claude, host it on an internal site, or download the HTML and deploy it anywhere.
+
+
+
+I'll drop the link to the live app in the comments if you want to try it (or argue about the predictions).
+
+
+
+But the point of this post is that this same framework works for other finance and FP&A use cases: variance analysis, scenario planning, FP&A dashboards. 
+
+
+
+The World Cup could be just more fun to start with.
+
+
+
+Follow for more AI × Finance guides. I post weekly.
